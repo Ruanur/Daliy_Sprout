@@ -7,4 +7,4 @@
 
 </div>
 
-![img](https://github.com/user-attachments/assets/c0ab0918-8fb5-4e98-bf2d-009db9290c87)
+<p align="center"><img src="https://github.com/user-attachments/assets/c0ab0918-8fb5-4e98-bf2d-009db9290c87"></p>
