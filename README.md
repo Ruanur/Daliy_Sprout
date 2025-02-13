@@ -7,5 +7,4 @@
 
 </div>
 
-![img](https://github.com/user-attachments/assets/0e0c1328-d83a-4825-b819-d9a8e520ab2e)
-![img](./.Readme/logo.png)
+![img](https://github.com/user-attachments/assets/31861f8e-3a3f-41ca-9236-de647e214d83)
