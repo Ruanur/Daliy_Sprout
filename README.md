@@ -24,7 +24,6 @@
 5. 원본 저장소로 `Pull Request`를 한다.
 6. ***주의!! 기존 폴더를 지우면 안됩니다!!*** 개인 폴더 내부만 수정해주세요 :)
 
-참여 방법 설명글: <https://alsrudwls.tistory.com/42>
 <br />
 <br />
 
@@ -49,6 +48,7 @@ git commit -m "[BOJ] Hello World / 브론즈5 / 1분" -m "https://www.acmicpc.ne
   * [CFS] - 코드포스
   * [SEA] - 삼성SW Expert Academy
   * [ETC] - 그외
-    
+
+commit 설명 글: <https://alsrudwls.tistory.com/42>
 <br />
 <br />
