@@ -1,7 +1,6 @@
 ﻿#include <iostream>
 using namespace std;
 
-
 // 분할 정복을 이용한 모듈러 거듭 제곱 함수
 long long modular_pow(long long base, long long exp, long long mod) {
     if (exp == 0)
