@@ -1,5 +1,4 @@
 import sys
-
 limit = sys.setrecursionlimit(100000000)
 
 dp = [100000] * 1000006
